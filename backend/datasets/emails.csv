@@ -1,0 +1,3 @@
+sender,receiver,subject,message,timestamp
+john@company.com,team@company.com,Event Logistics,Venue confirmed at City Hall,2026-02-10
+alice@company.com,team@company.com,Budget,Budget finalized at 200000,2026-02-12
